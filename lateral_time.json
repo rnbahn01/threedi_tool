@@ -1,0 +1,41 @@
+[
+    {
+      "offset": 0,
+      "value": [
+        [0.0, -0.06],
+        [21600.0, -0.06]
+      ],
+      "duration": 21600,
+      "units": "m3/s",
+      "point": {
+        "type": "Point",
+        "coordinates": [4.80076, 51.88442]  
+      }
+    },
+    {
+        "offset": 0,
+        "value": [
+          [0.0, -0.06],
+          [21600.0, -0.06]
+        ],
+        "duration": 21600,
+        "units": "m3/s",
+        "point": {
+          "type": "Point",
+          "coordinates": [4.81384, 51.88808]  
+        }
+    },
+    {
+        "offset": 0,
+        "value": [
+          [0.0, -0.06],
+          [21600.0, -0.06]
+        ],
+        "duration": 21600,
+        "units": "m3/s",
+        "point": {
+          "type": "Point",
+          "coordinates": [4.82314, 51.89104]  
+        }
+    }
+  ]
